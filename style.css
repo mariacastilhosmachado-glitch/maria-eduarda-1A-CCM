@@ -1,3 +1,9 @@
 body{
- background-color: blueviolet;
+ background-color: rgb(247, 116, 252);
+color:rgb(0, 0, 0)
+}
+header{ 
+    
+    background-color: rgb(253, 248, 248);
+    height:45px;
 }
